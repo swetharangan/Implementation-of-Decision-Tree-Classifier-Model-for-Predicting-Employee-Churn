@@ -22,7 +22,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Program:
 ```
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: SWETHAR
+Developed by: SWETHA R
 RegisterNumber: 212223040221
 ```
 ```python
